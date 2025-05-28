@@ -1,0 +1,9 @@
+# Ignore data files
+*.csv
+*.tsv
+*.pkl
+*.h5
+
+.ipynb_checkpoints/
+.env
+*.pyc
